@@ -1,4 +1,4 @@
-go-ipfsutil
+# go-ipfsutil
 
 > Utilities functions for interfacing with the IPFS CLI
 
@@ -29,6 +29,8 @@ func main() {
 	fmt.Println(hash) // Qmf412jQZiuVUtdgnB36FXFX7xg5V6KEbSJ4dpQuhkLyfD
 }
 ```
+
+Check out the [tests](pfsutil_test.go) for more examples
 
 ## Test
 
