@@ -30,7 +30,7 @@ func main() {
 }
 ```
 
-Check out the [tests](pfsutil_test.go) for more examples
+Check out the [tests](ipfsutil_test.go) for more examples
 
 ## Test
 
